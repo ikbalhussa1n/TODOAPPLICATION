@@ -1,6 +1,6 @@
 # MERN Auth Todo App
 
-![Project Screenshot](frontend/assets/all_todo.png)
+![Project Screenshot]([frontend/assets/all_todo.png](https://github.com/ikbalhussa1n/TODOAPPLICATION/blob/main/frontend/assets/all%20todo.png))
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Node.js](https://img.shields.io/badge/Node.js-16.x-green)](https://nodejs.org/)  
