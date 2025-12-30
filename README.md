@@ -131,31 +131,6 @@ cd frontend
 npm start
 ```
 
----
-
-## 📌 Screenshots
-
-### All Todos
-
-![All Todos](frontend/assets/all_todo.png)
-
-### Not Found
-
-![Not Found](frontend/assets/not_found.png)
-
-### Register Page
-
-![Register Page](frontend/assets/register.png)
-
-### Sign In Page
-
-![Sign In Page](frontend/assets/signIn.png)
-
-### Strikeout Feature
-
-![Strikeout Feature](frontend/assets/strikeout.png)
-
----
 
 ## 📌 API Routes
 
@@ -211,16 +186,6 @@ npm start
 }
 ```
 
----
-
-## ⭐ Optional Enhancements
-
-- Add additional frontend UI features
-- Implement refresh tokens for longer sessions
-- Add pagination & filters for todos
-- Deploy backend + frontend on Render, Railway, or Vercel
-
----
 
 ## 📄 License
 
