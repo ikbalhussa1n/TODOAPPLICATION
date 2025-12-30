@@ -3,8 +3,6 @@
 ### All Todos
 ![All Todos](frontend/assets/all%20todo.png)
 
-### Not Found
-![Not Found](frontend/assets/not_found.png)
 
 ### Register Page
 ![Register Page](frontend/assets/register.png)
@@ -14,6 +12,9 @@
 
 ### Strikeout Feature
 ![Strikeout Feature](frontend/assets/strikeout.png)
+
+### Not Found
+![Not Found](frontend/assets/not%20found.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Node.js](https://img.shields.io/badge/Node.js-16.x-green)](https://nodejs.org/)  
