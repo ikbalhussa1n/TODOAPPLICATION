@@ -1,7 +1,7 @@
 # MERN Auth Todo App
 
 ### All Todos
-![All Todos](frontend/assets/all_todo.png)
+![All Todos](frontend/assets/all%20todo.png)
 
 ### Not Found
 ![Not Found](frontend/assets/not_found.png)
