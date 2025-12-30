@@ -1,6 +1,19 @@
 # MERN Auth Todo App
 
-![Project Screenshot]([frontend/assets/all_todo.png](https://github.com/ikbalhussa1n/TODOAPPLICATION/blob/main/frontend/assets/all%20todo.png))
+### All Todos
+![All Todos](frontend/assets/all_todo.png)
+
+### Not Found
+![Not Found](frontend/assets/not_found.png)
+
+### Register Page
+![Register Page](frontend/assets/register.png)
+
+### Sign In Page
+![Sign In Page](frontend/assets/signIn.png)
+
+### Strikeout Feature
+![Strikeout Feature](frontend/assets/strikeout.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Node.js](https://img.shields.io/badge/Node.js-16.x-green)](https://nodejs.org/)  
